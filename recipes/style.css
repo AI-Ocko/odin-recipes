@@ -1,19 +1,22 @@
 h1 {
     background-color: black;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
 h2 {
     background-color: black;
     color: white;
-    
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .ingredients {
     color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .steps {
     color: brown;
+    font-family: 'Times New Roman', Times, serif;
 }
