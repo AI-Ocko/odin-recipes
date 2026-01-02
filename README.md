@@ -1,1 +1,1 @@
-I'm supposed to write a brief introduction describing what the current project is, but I have no idea what this current project is going to be. I'm just following the lesson as it goes, so I assume it has something to do with cooking, since the repository is called "odin-recipes." I guess we'll see!
+A website hosting all of my favorite recipes I've cooked for friends and family. I've been using this as a way to practice the HTML and CSS I've learned from the Odin Project. I hope you enjoy!
